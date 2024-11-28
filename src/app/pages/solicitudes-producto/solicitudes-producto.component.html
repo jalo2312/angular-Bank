@@ -1,0 +1,42 @@
+<div class="container mt-5">
+    <div class="card shadow">
+      <div class="card-body">
+        <h2 class="text-center">Solicitar Producto Bancario</h2>
+  
+        <form >
+          
+          <!-- Selección del Producto -->
+          <div class="mb-3">
+            <label for="producto" class="form-label">Seleccionar Producto</label>
+            <select id="producto" class="form-control" name="producto">
+              <option value="" disabled selected>Seleccione un producto</option>
+              <option value="tarjeta_credito">Tarjeta de Crédito</option>
+              <option value="prestamo_personal">Credito de libre inversion</option>
+              <option value="hipotecario">Crédito Hipotecario</option>
+              <option value="hipotecario"></option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label for="accountPurpose" class="form-label">Propósito del producto</label>
+            <input type="text" id="accountPurpose" class="form-control" name="accountPurpose">
+          </div> 
+          <div class="mb-3">
+            <label for="accountPurpose" class="form-label">Monto solicitado</label>
+            <input type="text" id="accountPurpose" class="form-control" name="accountPurpose">
+          </div>
+          <div class="mb-3">
+            <label for="accountPurpose" class="form-label">Plazo en meses</label>
+            <input type="text" id="accountPurpose" class="form-control" name="accountPurpose">
+          </div>
+          <!-- Consentimiento y Envío -->
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="consentimiento" name="consentimiento"  >
+            <label for="consentimiento" class="form-check-label">Acepto los términos y condiciones</label>
+          </div>
+  
+          <button type="submit" class="btn btn-primary">Enviar Solicitud</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  

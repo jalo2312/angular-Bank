@@ -1,0 +1,14 @@
+.carousel-inner img {
+    height: 260px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #000;
+  }
+  
+  p {
+    line-height: 1.5;
+  }

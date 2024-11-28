@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+    margin-bottom: 50px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    font-size: 1.3rem;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
