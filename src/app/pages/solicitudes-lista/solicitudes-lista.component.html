@@ -1,0 +1,38 @@
+<div class="container mt-5">
+  <h2 class="text-center">Solicitudes de Clientes</h2>
+  <table class="table table-striped table-hover mt-4">
+    <thead class="table-dark">
+      <tr>
+        <th>#</th>
+        <th>Nombre del Cliente</th>
+        <th>Producto</th>
+        <th>Fecha de Solicitud</th>
+        <th>Estado</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let solicitud of solicitudes; let i = index">
+        <td>{{ i + 1 }}</td>
+        <td>{{ solicitud.nombreCliente }}</td>
+        <td>{{ solicitud.producto }}</td>
+        <td>{{ solicitud.fechaSolicitud | date }}</td>
+        <td>
+          <span 
+            [ngClass]="{
+              'badge bg-success': solicitud.estado === 'Aprobada',
+              'badge bg-danger': solicitud.estado === 'No aprobada',
+              'badge bg-warning text-dark': solicitud.estado === 'Pendiente'
+            }">
+            {{ solicitud.estado }}
+          </span>
+        </td>
+        <td>
+          <button class="btn btn-primary btn-sm" (click)="verDetalle(solicitud)">
+            Ver Detalle
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

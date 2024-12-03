@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="footer" datatype="html">
+        <source> Confianza y solidez a tu servicio desde 1990. Proporcionamos soluciones financieras que impulsan tu crecimiento. </source>
+        <target> Trust and solidity at your service since 1990. Offering financial solutions that boost your growth. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source>Enlaces Rápidos</source>
+        <target>Quick Links</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source>Sobre Nosotros</source>
+        <target>About Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source>Servicios</source>
+        <target>Services</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source>Ayuda</source>
+        <target>Help</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source>Contáctanos</source>
+        <target>Contact Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer" datatype="html">
+        <source> © 2024 Centauros Bank. Todos los derechos reservados.</source>
+        <target> 2024 Centauros Bank. All rights reserved.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">23,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Centauros Bank</source>
+        <target>Centauros Bank</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Inicio Sesion</source>
+        <target>Login</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Registrarse</source>
+        <target>Register</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">127,128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source> Menu </source>
+        <target> Menu </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Solicitud de producto</source>
+        <target>Product request</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Creacion de Productos</source>
+        <target>Product creation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header" datatype="html">
+        <source>Crear Producto Bancario</source>
+        <target>Create Bank Product</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source>Seleccionar Solicitud Aprobada</source>
+        <target>Select Approved Request</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;&quot; disabled selected&gt;"/>Seleccione una Solicitud<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option&gt;"/><x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <target><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;&quot; disabled selected&gt;"/>Select one Request<x id=" CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" ctype="x-option" equiv-text="&lt;option&gt;"/><x id="CLOSE_TAG_OPTION" ctype="x -option" equiv-text="&lt;/option&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">11,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source>Detalles del Producto</source>
+        <target>Product details</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source>Tipo de Producto</source>
+        <target>Product type</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;tarjeta_credito&quot;&gt;"/>Tarjeta de Crédito<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;prestamo_personal&quot;&gt;"/>Préstamo Personal<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;hipotecario&quot;&gt;"/>Crédito Hipotecario<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <target><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;credit_card&quot;&gt;"/>Credit Card<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id ="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt; option value=&quot;personal_loan&quot;&gt;"/>Personal Loan<x id="CLOSE_TAG_OPTION " ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value =&quot;mortgage&quot;&gt;"/>Mortgage<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></target> 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">24,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creaProducto" datatype="html">
+        <source>Monto Aprobado</source>
+        <target>Approved Amount</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8640395318456590761" datatype="html">
+        <source>Información del Cliente</source>
+        <target>Customer Information</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5006475065589805394" datatype="html">
+        <source>Nombre Completo del Cliente</source>
+        <target>Full Name of the Customer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">41,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8291623872431660900" datatype="html">
+        <source>Número de Documento</source>
+        <target>Document Number</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9064111164141711712" datatype="html">
+        <source>Fecha de Creación</source>
+        <target>Creation Date</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2529856889037801927" datatype="html">
+        <source>Confirmo que todos los datos son correctos</source>
+        <target>I confirm that all data is correct</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1105254220056805208" datatype="html">
+        <source>Crear Producto</source>
+        <target>Create Product</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/creacion-producto/creacion-producto.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2899352626682663496" datatype="html">
+        <source>Recuperar contraseña</source>
+        <target>Forgot Password</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/forgot-password/forgot-password.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/forgot-password/forgot-password.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4401057011206112121" datatype="html">
+        <source>Correo electrónico</source>
+        <target>Email</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/forgot-password/forgot-password.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3480945603039493420" datatype="html">
+        <source>Nosotros</source>
+        <target>About Us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5732270124779996549" datatype="html">
+        <source> Únase a nosotros en Centauros Bank, donde creemos que la gestión de sus finanzas debe ser tan sólida y duradera como nuestro homónimo. Juntos, lo ayudaremos a tomar decisiones inteligentes que permitan que sus recursos prosperen en cualquier entorno. </source>
+        <target> Join us at Centauros Bank, where we believe that managing your finances should be as solid and enduring as our namesake. Together, we will help you make smart decisions that allow your resources to thrive in any environment. </target> 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9105473453290584128" datatype="html">
+        <source> Con un enfoque en la seguridad, la transparencia y la satisfacción del cliente, Centauros Bank combina tecnología bancaria digital avanzada con un toque humano. Nuestro equipo de expertos financieros se dedica a guiarlo a través de sus opciones, asegurándose de que tenga las herramientas y el conocimiento para tomar decisiones informadas. </source>
+        <target> With a focus on security, transparency, and customer satisfaction, Centauros Bank combines advanced digital banking technology with a human touch. Our team of financial experts is dedicated to guiding you through your options, ensuring you have the tools and knowledge to make informed decisions. </target> 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.component.html</context>
+          <context context-type="linenumber">37,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4311569858228721961" datatype="html">
+        <source>Iniciar sesión</source>
+        <target>Login</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7932274128069923648" datatype="html">
+        <source>Seleccionar Tipo de Usuario</source>
+        <target>Select User Type</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6239402839949136023" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;cliente&quot;&gt;"/>Cliente<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;empleado&quot;&gt;"/>Empleado<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <target><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;client&quot;&gt;"/>Client<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value =&quot;employee&quot;&gt;"/>Employee<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7132730488496169673" datatype="html">
+        <source>Contraseña</source>
+        <target>Password</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5436288597850629207" datatype="html">
+        <source>Recordar contraseña</source>
+        <target>Remember password</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1289161290071853133" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;/forgot-password&quot;&gt;"/>Olvidé mi contraseña<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;/forgot-password&quot;&gt;"/>Forgot password<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4975682648542438053" datatype="html">
+        <source>¿No tienes cuenta? Regístrate</source>
+        <target>Don't have an account? Register</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login/login.component.html</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7277359213015467276" datatype="html">
+        <source>Registro de Usuario</source>
+        <target>User registration</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2009030607599084261" datatype="html">
+        <source>Datos Personales</source>
+        <target>Personal data</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4743156365764866968" datatype="html">
+        <source>Nombres</source>
+        <target>Names</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6759367372427181151" datatype="html">
+        <source>Apellidos</source>
+        <target>Last names</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1799395075416510912" datatype="html">
+        <source>Fecha de Nacimiento</source>
+        <target>Birthday</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3718302304914654810" datatype="html">
+        <source>Género</source>
+        <target>Gender</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4089651645484806733" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;masculino&quot;&gt;"/>Masculino<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;femenino&quot;&gt;"/>Femenino<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;otro&quot;&gt;"/>Otro<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <target><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;male&quot;&gt;"/>Male<x id="CLOSE_TAG_OPTION " ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START _TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value =&quot;female&quot;&gt;"/>Female<x id="CLOSE_TAG_OPTION" ctype="x -option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2 " ctype="x-option_2" equiv-text="&lt;option value=&quot;other &quot;&gt;"/>Other<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text ="&lt;/option&gt;"/></target> 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">21,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3557932396798243452" datatype="html">
+        <source>Tipo de Documento de Identidad</source>
+        <target>Document type</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2158946134590766109" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;dni&quot;&gt;"/>DNI<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;dni&quot;&gt;"/>Cedula de ciudadania<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;pasaporte&quot;&gt;"/>Pasaporte<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <target><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;dni&quot;&gt;"/>DNI<x id="CLOSE_TAG _OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id=" START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot; passport&quot;&gt;"/>Passport<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype ="x-option_1" equiv-text="&lt;option value=&quot;id&quot;&gt;"/>ID<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></target> 
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">29,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5795813234172384719" datatype="html">
+        <source>Fecha de expedicion del documento</source>
+        <target>Expedition date of the document</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6040893046359771683" datatype="html">
+        <source>Estado Civil</source>
+        <target>Marital status</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">43,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4498181967244000662" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;soltero&quot;&gt;"/>Soltero<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;casado&quot;&gt;"/>Casado<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;divorciado&quot;&gt;"/>Divorciado<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;viudo&quot;&gt;"/>Viudo<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">45,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6351738408482451790" datatype="html">
+        <source>Información de Contacto</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4868888201950564133" datatype="html">
+        <source>Correo Electrónico</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3871400657040493477" datatype="html">
+        <source>Número de Teléfono</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1757004972529708853" datatype="html">
+        <source>Dirección de Residencia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">63,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8636102237263751588" datatype="html">
+        <source>Código Postal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2814390016214831270" datatype="html">
+        <source>País</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">71,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4721450622821551664" datatype="html">
+        <source>Información Financiera</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">76,77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3794771343114533466" datatype="html">
+        <source>Ingreso Mensual Aproximado</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="213392970555949194" datatype="html">
+        <source>Actividad economica</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7153554620349925323" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;soltero&quot;&gt;"/>Seleccione<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;casado&quot;&gt;"/>Empleado<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;divorciado&quot;&gt;"/>Independiente<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;viudo&quot;&gt;"/>Pensionado<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">84,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7387891341578733058" datatype="html">
+        <source>Tipo de contrato</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8309212849194176593" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;soltero&quot;&gt;"/>Seleccione<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;casado&quot;&gt;"/>Indefinido<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;divorciado&quot;&gt;"/>Termino fijo<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;viudo&quot;&gt;"/>Obra o labor<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;viudo&quot;&gt;"/>prestacion de servicios<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">93,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1971194973847859928" datatype="html">
+        <source>Tiempo en la empresa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">101,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1822994600677553424" datatype="html">
+        <source>Seguridad</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">106,107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3780907903055773112" datatype="html">
+        <source>Confirmar Contraseña</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">112,113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7991253385444934856" datatype="html">
+        <source>Documentos Adicionales</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">117,118</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8825603073882283589" datatype="html">
+        <source>Subir Documentos personales</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">119,120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1472037413771911061" datatype="html">
+        <source>Subir Documentos financieros</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/register.component.html</context>
+          <context context-type="linenumber">123,124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1084368029700317066" datatype="html">
+        <source>Solicitar Producto Bancario</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1873707169646923880" datatype="html">
+        <source>Seleccionar Producto</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7098209943188981711" datatype="html">
+        <source><x id="START_TAG_OPTION" ctype="x-option" equiv-text="&lt;option value=&quot;&quot; disabled selected&gt;"/>Seleccione un producto<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_1" ctype="x-option_1" equiv-text="&lt;option value=&quot;tarjeta_credito&quot;&gt;"/>Tarjeta de Crédito<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_2" ctype="x-option_2" equiv-text="&lt;option value=&quot;prestamo_personal&quot;&gt;"/>Credito de libre inversion<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;hipotecario&quot;&gt;"/>Crédito Hipotecario<x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/><x id="START_TAG_OPTION_3" ctype="x-option_3" equiv-text="&lt;option value=&quot;hipotecario&quot;&gt;"/><x id="CLOSE_TAG_OPTION" ctype="x-option" equiv-text="&lt;/option&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">12,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6861006731174840612" datatype="html">
+        <source>Propósito del producto</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6459066086070075935" datatype="html">
+        <source>Monto solicitado</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9113980786447917322" datatype="html">
+        <source>Plazo en meses</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5113972530388323496" datatype="html">
+        <source>Acepto los términos y condiciones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4251067080570482517" datatype="html">
+        <source>Enviar Solicitud</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/solicitudes-producto/solicitudes-producto.component.html</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

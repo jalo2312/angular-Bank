@@ -1,0 +1,16 @@
+.container {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 20%;
+  }
+  
+  .table {
+    text-align: center;
+  }
+  
+  .badge {
+    font-size: 0.9rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  

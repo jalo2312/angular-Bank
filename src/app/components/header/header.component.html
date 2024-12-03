@@ -1,35 +1,33 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #5cb6b6;">
     <div class="container-fluid">
-      <!-- Logo y Nombre -->
       <a class="navbar-brand d-flex align-items-center" href="#">
         <img src="logo.png" alt="Logo" style="height: 40px; margin-right: 10px;">
-        <span style="font-size: 20px; font-weight: bold; text-decoration: underline;">Centauros</span>
+        <span i18n style="font-size: 20px; font-weight: bold; text-decoration: underline;">Centauros Bank</span>
       </a>
   
-      <!-- Botón para menú en pantallas pequeñas -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
   
-      <!-- Opciones del Menú -->
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ms-auto">
-          <!-- Log In / Sign Up -->
           <li class="nav-item">
-            <a class="nav-link text-dark" style="cursor: pointer;" (click)="Login()">Log In</a>
+            <a i18n class="nav-link text-dark" style="cursor: pointer;" (click)="Login()">Inicio Sesion</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-dark" style="cursor: pointer;" (click)="Register()">Sign Up</a>
+            <a i18n class="nav-link text-dark" style="cursor: pointer;" (click)="Register()">Registrarse</a>
           </li>
   
           <!-- Menú desplegable -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a i18n class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Menu
             </a>
             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" style="cursor: pointer;" (click)="Solicitud()">Solicitud de producto</a></li>
-              <li><a class="dropdown-item" style="cursor: pointer;" (click)="Crear()">Creacion de Productos</a></li>
+              <li><a i18n class="dropdown-item" style="cursor: pointer;" (click)="Solicitud()">Solicitud de producto</a></li>
+              <li><a i18n class="dropdown-item" style="cursor: pointer;" (click)="Crear()">Creacion de Productos</a></li>
+              <li><a i18n class="dropdown-item" style="cursor: pointer;" (click)="Lista()">Lista de Productos</a></li>
+              <li><a i18n class="dropdown-item" style="cursor: pointer;" (click)="Dash()">Tablero de control</a></li>
             </ul>
           </li>
         </ul>

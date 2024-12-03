@@ -10,6 +10,8 @@ import { EmployeeDashboardComponent } from './pages/employee-dashboard/employee-
 import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';
 import { SolicitudesProductoComponent } from './pages/solicitudes-producto/solicitudes-producto.component';
 import { CreacionProductoComponent } from './pages/creacion-producto/creacion-producto.component';
+import { SolicitudesListaComponent } from './pages/solicitudes-lista/solicitudes-lista.component';
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -20,7 +22,9 @@ const routes: Routes = [
   { path: 'employee-dashboard', component: EmployeeDashboardComponent },
   { path: 'forgot-password', component: ForgotPasswordComponent },
   { path: 'solicitud', component: SolicitudesProductoComponent },
-  { path: 'crear', component: CreacionProductoComponent }
+  { path: 'crear', component: CreacionProductoComponent },
+  { path: 'lista', component: SolicitudesListaComponent },
+  { path: 'dash', component: DashboardComponent }
 ];
 
 @NgModule({

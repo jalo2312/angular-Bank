@@ -13,6 +13,9 @@ import { RegisterComponent } from './pages/register/register.component';
 import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';
 import { SolicitudesProductoComponent } from './pages/solicitudes-producto/solicitudes-producto.component';
 import { CreacionProductoComponent } from './pages/creacion-producto/creacion-producto.component';
+import { SolicitudesListaComponent } from './pages/solicitudes-lista/solicitudes-lista.component';
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
+
 
 
 @NgModule({
@@ -27,7 +30,9 @@ import { CreacionProductoComponent } from './pages/creacion-producto/creacion-pr
     RegisterComponent,
     ForgotPasswordComponent,
     SolicitudesProductoComponent,
-    CreacionProductoComponent
+    CreacionProductoComponent,
+    SolicitudesListaComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule,

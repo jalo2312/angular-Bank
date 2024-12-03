@@ -1,48 +1,47 @@
 <div class="card-container mt-5">
-    <h2 class="text-center">Registro de Usuario</h2>
-    <form (ngSubmit)="onRegister()">
-      
-      <!-- Datos Personales -->
-      <h3>Datos Personales</h3>
+    <h2 i18n class="text-center">Registro de Usuario</h2>
+    <form>
+
+      <h3 i18n>Datos Personales</h3>
       <div class="mb-3">
-        <label for="firstName" class="form-label">Nombres</label>
+        <label i18n for="firstName" class="form-label">Nombres</label>
         <input type="text" id="firstName" class="form-control" name="firstName">
       </div>
       <div class="mb-3">
-        <label for="firstName" class="form-label">Apellidos</label>
+        <label i18n for="firstName" class="form-label">Apellidos</label>
         <input type="text" id="firstName" class="form-control" name="firstName">
       </div>
       <div class="mb-3">
-        <label for="birthDate" class="form-label">Fecha de Nacimiento</label>
+        <label i18n for="birthDate" class="form-label">Fecha de Nacimiento</label>
         <input type="date" id="birthDate" class="form-control" name="birthDate">
       </div>
       <div class="mb-3">
-        <label for="gender" class="form-label">Género</label>
-        <select id="gender" class="form-control" name="gender">
+        <label i18n for="gender" class="form-label">Género</label>
+        <select i18n id="gender" class="form-control" name="gender">
           <option value="masculino">Masculino</option>
           <option value="femenino">Femenino</option>
           <option value="otro">Otro</option>
         </select>
       </div>
       <div class="mb-3">
-        <label for="documentType" class="form-label">Tipo de Documento de Identidad</label>
-        <select id="documentType" class="form-control" name="documentType">
+        <label i18n for="documentType" class="form-label">Tipo de Documento de Identidad</label>
+        <select i18n id="documentType" class="form-control" name="documentType">
           <option value="dni">DNI</option>
           <option value="dni">Cedula de ciudadania</option>
           <option value="pasaporte">Pasaporte</option>
         </select>
       </div>
       <div class="mb-3">
-        <label for="documentNumber" class="form-label">Número de Documento</label>
+        <label i18n for="documentNumber" class="form-label">Número de Documento</label>
         <input type="text" id="documentNumber" class="form-control" name="documentNumber">
       </div>
       <div class="mb-3">
-        <label for="birthDate" class="form-label">Fecha de expedicion del documento</label>
+        <label i18n for="birthDate" class="form-label">Fecha de expedicion del documento</label>
         <input type="date" id="birthDate" class="form-control" name="birthDate">
       </div>
       <div class="mb-3">
-        <label for="civilStatus" class="form-label">Estado Civil</label>
-        <select id="civilStatus" class="form-control" name="civilStatus">
+        <label i18n for="civilStatus" class="form-label">Estado Civil</label>
+        <select i18n id="civilStatus" class="form-control" name="civilStatus">
           <option value="soltero">Soltero</option>
           <option value="casado">Casado</option>
           <option value="divorciado">Divorciado</option>
@@ -51,37 +50,37 @@
       </div>
   
       <!-- Información de Contacto -->
-      <h3>Información de Contacto</h3>
+      <h3 i18n>Información de Contacto</h3>
       <div class="mb-3">
-        <label for="email" class="form-label">Correo Electrónico</label>
+        <label i18n for="email" class="form-label">Correo Electrónico</label>
         <input type="email" id="email" class="form-control" name="email">
       </div>
       <div class="mb-3">
-        <label for="phone" class="form-label">Número de Teléfono</label>
+        <label i18n for="phone" class="form-label">Número de Teléfono</label>
         <input type="text" id="phone" class="form-control" name="phone">
       </div>
       <div class="mb-3">
-        <label for="address" class="form-label">Dirección de Residencia</label>
+        <label i18n for="address" class="form-label">Dirección de Residencia</label>
         <input type="text" id="address" class="form-control" name="address">
       </div>
       <div class="mb-3">
-        <label for="zipCode" class="form-label">Código Postal</label>
+        <label i18n for="zipCode" class="form-label">Código Postal</label>
         <input type="text" id="zipCode" class="form-control" name="zipCode">
       </div>
       <div class="mb-3">
-        <label for="country" class="form-label">País</label>
+        <label i18n for="country" class="form-label">País</label>
         <input type="text" id="country" class="form-control" name="country">
       </div>
   
       <!-- Información Financiera -->
-      <h3>Información Financiera</h3>
+      <h3 i18n>Información Financiera</h3>
       <div class="mb-3">
-        <label for="monthlyIncome" class="form-label">Ingreso Mensual Aproximado</label>
+        <label i18n for="monthlyIncome" class="form-label">Ingreso Mensual Aproximado</label>
         <input type="number" id="monthlyIncome" class="form-control" name="monthlyIncome">
       </div>
       <div class="mb-3">
-        <label for="employer" class="form-label">Actividad economica</label>
-        <select id="civilStatus" class="form-control" name="civilStatus">
+        <label i18n for="employer" class="form-label">Actividad economica</label>
+        <select i18n id="civilStatus" class="form-control" name="civilStatus">
           <option value="soltero">Seleccione</option>
           <option value="casado">Empleado</option>
           <option value="divorciado">Independiente</option>
@@ -89,8 +88,8 @@
         </select>
       </div>
       <div class="mb-3">
-        <label for="employer" class="form-label">Tipo de contrato</label>
-        <select id="civilStatus" class="form-control" name="civilStatus">
+        <label i18n for="employer" class="form-label">Tipo de contrato</label>
+        <select i18n id="civilStatus" class="form-control" name="civilStatus">
           <option value="soltero">Seleccione</option>
           <option value="casado">Indefinido</option>
           <option value="divorciado">Termino fijo</option>
@@ -99,33 +98,33 @@
         </select>
       </div>
       <div class="mb-3">
-        <label for="firstName" class="form-label">Tiempo en la empresa</label>
+        <label i18n for="firstName" class="form-label">Tiempo en la empresa</label>
         <input type="text" id="firstName" class="form-control" name="firstName">
       </div>
   
       <!-- Seguridad -->
-      <h3>Seguridad</h3>
+      <h3 i18n>Seguridad</h3>
       <div class="mb-3">
-        <label for="password" class="form-label">Contraseña</label>
+        <label i18n for="password" class="form-label">Contraseña</label>
         <input type="password" id="password" class="form-control" name="password" required>
       </div>
       <div class="mb-3">
-        <label for="confirmPassword" class="form-label">Confirmar Contraseña</label>
+        <label i18n for="confirmPassword" class="form-label">Confirmar Contraseña</label>
         <input type="password" id="confirmPassword" class="form-control" name="confirmPassword" required>
       </div>
   
       <!-- Documentos Adicionales -->
-      <h3>Documentos Adicionales</h3>
+      <h3 i18n>Documentos Adicionales</h3>
       <div class="mb-3">
-        <label for="identityDocument" class="form-label">Subir Documentos personales</label>
+        <label i18n for="identityDocument" class="form-label">Subir Documentos personales</label>
         <input type="file" id="identityDocument" class="form-control" name="identityDocument">
       </div>
       <div class="mb-3">
-        <label for="financialDocument" class="form-label">Subir Documentos financieros</label>
+        <label i18n for="financialDocument" class="form-label">Subir Documentos financieros</label>
         <input type="file" id="financialDocument" class="form-control" name="financialDocument">
       </div>
   
-      <button type="submit" class="btn btn-primary mt-3">Registrarse</button>
+      <button i18n type="submit" class="btn btn-primary mt-3">Registrarse</button>
     </form>
   </div>
   

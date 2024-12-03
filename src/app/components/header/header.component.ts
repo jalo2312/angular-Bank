@@ -21,4 +21,10 @@ export class HeaderComponent {
   Crear(){
     this.router.navigate(["crear"]);
   }
+  Lista(){
+    this.router.navigate(["lista"])
+  }
+  Dash(){
+    this.router.navigate(["dash"])
+  }
 }

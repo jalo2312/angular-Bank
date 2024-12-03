@@ -1,0 +1,34 @@
+<div class="container mt-5">
+    <h2 class="text-center">Dashboard de Solicitudes</h2>
+  
+    <div class="row mt-4">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title text-center">Estado de Solicitudes</h5>
+            <canvas baseChart 
+                    [data]="pieChartData" 
+                    [labels]="pieChartLabels"
+                    [chartType]="pieChartType"
+                    [colors]="pieChartColors">
+            </canvas>
+          </div>
+        </div>
+      </div>
+  
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title text-center">Solicitudes por Mes</h5>
+            <canvas baseChart 
+                    [data]="barChartData"
+                    [labels]="barChartLabels"
+                    [chartType]="barChartType"
+                    [colors]="barChartColors">
+            </canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
